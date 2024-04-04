@@ -1,0 +1,13 @@
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/dummy.o: \
+ /home/andrea/Desktop/Star-Os/glibc-2.38/build/dummy.c \
+ ../include/stdc-predef.h \
+ /home/andrea/Desktop/Star-Os/glibc-2.38/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/andrea/Desktop/Star-Os/glibc-2.38/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h
+../include/stdc-predef.h:
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/libc-modules.h:
+../include/libc-symbols.h:
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:

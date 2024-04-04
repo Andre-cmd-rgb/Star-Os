@@ -1,0 +1,1879 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (rtld_errno)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__closedir)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__rewinddir)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__readdir64)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__fdopendir)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os) (__getdents64)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__profil)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__profile_frequency)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__access)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__GI___fstat64)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__GI___fstatat64)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__lseek)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__GI___lstat64)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__openat64)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__GI___stat64)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__GI___close_nocancel)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__GI___open64_nocancel)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__GI___pread64_nocancel)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__GI___read_nocancel)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__GI___write_nocancel)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__mmap)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__mprotect)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__munmap)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__lll_lock_wait_private)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__GI__exit)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__getpid)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__uname)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__environ)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__longjmp)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os) (__libc_sigaction)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (memchr)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (memcmp)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__mempcpy)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (memset)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__stpcpy)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (strchr)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (strcmp)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (strcspn)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (__strdup)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (strerrorname_np)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (strlen)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (strncmp)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os (strnlen)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os) (__strchrnul)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+                              /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os) (__get_errname)
+
+Merging program properties
+
+
+Discarded input sections
+
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+LOAD /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.property
+                0x0000000000000000       0x20
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.relr.dyn
+ *(.relr.dyn)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000000    0x24fb3
+ *(.text .stub)
+ .text          0x0000000000000000    0x1fb84 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_call_libc_early_init
+                0x0000000000000090                _dl_call_fini
+                0x00000000000001e0                _dl_signal_exception
+                0x00000000000001e0                __GI__dl_signal_exception
+                0x0000000000000240                __GI__dl_signal_error
+                0x0000000000000240                _dl_signal_error
+                0x00000000000002b0                _dl_signal_cexception
+                0x0000000000000340                _dl_signal_cerror
+                0x00000000000003c0                _dl_receive_error
+                0x0000000000000460                _dl_catch_exception
+                0x0000000000000460                __GI__dl_catch_exception
+                0x00000000000005e0                _dl_catch_error
+                0x0000000000000740                _dl_close_worker
+                0x0000000000001540                _dl_close
+                0x00000000000015b0                _dl_debug_state
+                0x00000000000015b0                __GI__dl_debug_state
+                0x00000000000015c0                _dl_debug_update
+                0x0000000000001610                _dl_debug_initialize
+                0x00000000000017c0                _dl_map_object_deps
+                0x0000000000002830                _dl_error_free
+                0x0000000000002860                _dl_exception_create
+                0x0000000000002860                __GI__dl_exception_create
+                0x0000000000002930                __GI__dl_exception_create_format
+                0x0000000000002930                _dl_exception_create_format
+                0x0000000000002da0                _dl_exception_free
+                0x0000000000002da0                __GI__dl_exception_free
+                0x0000000000002dd0                _dl_make_stacks_executable
+                0x0000000000002f40                __GI___nptl_change_stack_perm
+                0x0000000000002f40                __nptl_change_stack_perm
+                0x0000000000003180                __GI__dl_find_object
+                0x0000000000003180                _dl_find_object
+                0x00000000000034c0                _dlfo_sort_mappings
+                0x0000000000003570                _dl_find_object_init
+                0x0000000000003720                _dl_find_object_update
+                0x0000000000003c20                _dl_find_object_dlclose
+                0x0000000000003cf0                _dl_find_object_freeres
+                0x0000000000003d60                _dl_fini
+                0x0000000000004160                _dl_init
+                0x00000000000051a0                _dl_dst_count
+                0x0000000000005250                _dl_dst_substitute
+                0x00000000000059e0                _dl_init_paths
+                0x0000000000005d60                _dl_process_pt_gnu_property
+                0x00000000000076e0                _dl_map_object
+                0x00000000000081d0                _dl_rtld_di_serinfo
+                0x00000000000091c0                _dl_lookup_symbol_x
+                0x0000000000009d60                _dl_lookup_direct
+                0x0000000000009f00                __minimal_malloc
+                0x000000000000a020                __minimal_calloc
+                0x000000000000a060                __minimal_free
+                0x000000000000a0a0                __minimal_realloc
+                0x000000000000a130                _dl_sysdep_read_whole_file
+                0x000000000000a1c0                _dl_name_match_p
+                0x000000000000a230                _dl_higher_prime_number
+                0x000000000000a280                _dl_strtoul
+                0x000000000000a3e0                _dl_add_to_namespace_list
+                0x000000000000a480                _dl_new_object
+                0x000000000000aca0                __GI__dl_find_dso_for_object
+                0x000000000000aca0                _dl_find_dso_for_object
+                0x000000000000ad70                _dl_open
+                0x000000000000b070                _dl_show_scope
+                0x000000000000bbe0                _dl_get_origin
+                0x000000000000c3c0                _dl_debug_printf
+                0x000000000000c470                _dl_debug_printf_c
+                0x000000000000c520                _dl_dprintf
+                0x000000000000c5c0                _dl_printf
+                0x000000000000c670                _dl_error_printf
+                0x000000000000c720                _dl_fatal_printf
+                0x000000000000c720                __GI__dl_fatal_printf
+                0x000000000000c7d0                _dl_start_profile
+                0x000000000000cf80                __GI__dl_mcount
+                0x000000000000cf80                _dl_mcount
+                0x000000000000d190                _dl_try_allocate_static_tls
+                0x000000000000d2b0                _dl_allocate_static_tls
+                0x000000000000d2f0                _dl_protect_relro
+                0x000000000000d360                _dl_reloc_bad_type
+                0x000000000000d440                _dl_relocate_object
+                0x000000000000f7e0                _dl_fixup
+                0x000000000000faa0                _dl_profile_fixup
+                0x000000000000fdf0                _dl_scope_free
+                0x000000000000fec0                _dl_setup_hash
+                0x0000000000010060                _dl_sort_maps_init
+                0x0000000000010090                _dl_sort_maps
+                0x00000000000105b0                __thread_gscope_wait
+                0x0000000000010a40                _dl_tls_static_surplus_init
+                0x0000000000010ae0                _dl_assign_tls_modid
+                0x0000000000010bf0                _dl_count_modids
+                0x0000000000010c60                _dl_determine_tlsoffset
+                0x0000000000010e20                _dl_get_tls_static_info
+                0x0000000000010e40                _dl_allocate_tls_storage
+                0x0000000000010f10                __GI__dl_allocate_tls_init
+                0x0000000000010f10                _dl_allocate_tls_init
+                0x00000000000111b0                __GI__dl_allocate_tls
+                0x00000000000111b0                _dl_allocate_tls
+                0x00000000000111f0                _dl_deallocate_tls
+                0x00000000000111f0                __GI__dl_deallocate_tls
+                0x0000000000011280                _dl_update_slotinfo
+                0x00000000000114e0                __GI___tls_get_addr
+                0x00000000000114e0                ___tls_get_addr
+                0x0000000000011520                _dl_tls_get_addr_soft
+                0x00000000000115a0                _dl_add_to_slotinfo
+                0x00000000000116b0                _dl_init_static_tls
+                0x00000000000117e0                __tls_get_addr_slow
+                0x0000000000011820                __tls_pre_init_tp
+                0x0000000000011880                __tls_init_tp
+                0x00000000000119c0                _dl_runtime_profile_sse
+                0x0000000000011b50                _dl_runtime_resolve_fxsave
+                0x0000000000011bd0                _dl_runtime_resolve_xsave
+                0x0000000000011ca0                _dl_runtime_resolve_xsavec
+                0x0000000000011e50                __GI___tunable_set_val
+                0x0000000000011e70                __GI___tunables_init
+                0x0000000000012470                __GI___tunables_print
+                0x0000000000012580                __tunable_get_val
+                0x0000000000012580                __GI___tunable_get_val
+                0x00000000000125f0                _dl_check_map_versions
+                0x0000000000012eb0                _dl_check_all_versions
+                0x0000000000012f20                _dl_write
+                0x0000000000012f30                _dl_cache_libcmp
+                0x0000000000013720                _dl_load_cache_lookup
+                0x0000000000013ab0                _dl_unload_cache
+                0x0000000000013b00                _dl_make_tlsdesc_dynamic
+                0x0000000000013da0                _dl_unmap
+                0x0000000000013e20                _dl_tlsdesc_return
+                0x0000000000013e30                _dl_tlsdesc_undefweak
+                0x0000000000013e50                _dl_tlsdesc_dynamic
+                0x0000000000013ef0                __tls_get_addr
+                0x0000000000016220                __x86_cpu_features
+                0x0000000000016250                _dl_x86_init_cpu_features
+                0x0000000000016270                _dl_x86_get_cpu_features
+                0x0000000000016710                _dl_cet_open_check
+                0x0000000000016720                _dl_cet_check
+                0x0000000000016730                _dl_audit_activity_map
+                0x00000000000167c0                _dl_audit_activity_nsid
+                0x0000000000016800                _dl_audit_objsearch
+                0x00000000000168b0                _dl_audit_objopen
+                0x0000000000016970                _dl_audit_objclose
+                0x0000000000016a10                _dl_audit_preinit
+                0x0000000000016a90                _dl_audit_symbind_alt
+                0x0000000000016a90                __GI__dl_audit_symbind_alt
+                0x0000000000016c40                _dl_audit_symbind
+                0x0000000000016ef0                _dl_audit_pltenter
+                0x0000000000017100                _dl_audit_pltexit
+                0x00000000000172e0                _dl_diagnostics_print_string
+                0x0000000000017360                _dl_diagnostics_print_labeled_string
+                0x00000000000173b0                _dl_diagnostics_print_labeled_value
+                0x00000000000173d0                _dl_print_diagnostics
+                0x00000000000177d0                _dl_diagnostics_cpu
+                0x0000000000017f10                _dl_diagnostics_kernel
+                0x0000000000017fc0                _dl_next_ld_env_entry
+                0x0000000000018010                unsetenv
+                0x0000000000018140                _dl_important_hwcaps
+                0x00000000000184d0                _dl_hwcaps_subdirs_active
+                0x0000000000018590                _dl_hwcaps_split
+                0x0000000000018630                _dl_hwcaps_contains
+                0x00000000000186f0                _dl_hwcaps_split_masked
+                0x0000000000018730                __rtld_libc_freeres
+                0x0000000000018740                __rtld_malloc_init_stubs
+                0x0000000000018780                __sigjmp_save
+                0x0000000000018790                __strerror_r
+                0x0000000000018880                __GI___libc_fatal
+                0x0000000000018880                __libc_fatal
+                0x00000000000188a0                __GI___chk_fail
+                0x00000000000188a0                __chk_fail
+                0x00000000000188c0                __GI___assert_fail
+                0x00000000000188c0                __assert_fail
+                0x0000000000018900                __rtld_malloc_is_complete
+                0x0000000000018a10                __rtld_malloc_init_real
+                0x0000000000018b00                __GI___assert_perror_fail
+                0x0000000000018b00                __assert_perror_fail
+                0x0000000000018b60                _itoa
+                0x0000000000018bc0                __strsep
+                0x0000000000018bc0                strsep
+                0x0000000000018bc0                __strsep_g
+                0x0000000000018c40                __rtld_mutex_init
+                0x0000000000018ec0                _dl_tunable_set_hwcaps
+                0x0000000000019a60                _dl_tunable_set_x86_ibt
+                0x0000000000019ae0                _dl_tunable_set_x86_shstk
+                0x0000000000019b60                _dl_sysdep_start
+                0x0000000000019c20                _dl_sysdep_start_cleanup
+                0x0000000000019c30                _dl_show_auxv
+                0x0000000000019e80                _dl_usage
+                0x0000000000019ed0                _dl_version
+                0x0000000000019ef0                _dl_help
+                0x000000000001a1b0                _start
+                0x000000000001a1b8                _dl_start_user
+                0x000000000001b550                handle_preload_list
+                0x000000000001f310                __brk
+                0x000000000001f310                brk
+                0x000000000001f340                __getcwd
+                0x000000000001f340                getcwd
+                0x000000000001f940                openat64
+                0x000000000001f9a0                __alloc_dir
+                0x000000000001fa70                __opendir
+                0x000000000001fa70                opendir
+                0x000000000001fb00                sbrk
+                0x000000000001fb00                __sbrk
+ *fill*         0x000000000001fb84        0xc 
+ .text          0x000000000001fb90       0xd6 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x000000000001fc30                __libc_check_standard_fds
+ .text          0x000000000001fc66        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ *fill*         0x000000000001fc66        0xa 
+ .text          0x000000000001fc70       0x2a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+                0x000000000001fc70                __closedir
+                0x000000000001fc70                closedir
+ *fill*         0x000000000001fc9a        0x6 
+ .text          0x000000000001fca0       0x2c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x000000000001fca0                rewinddir
+                0x000000000001fca0                __rewinddir
+ *fill*         0x000000000001fccc        0x4 
+ .text          0x000000000001fcd0       0x7b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+                0x000000000001fcd0                readdir
+                0x000000000001fcd0                __readdir64
+                0x000000000001fcd0                __readdir
+                0x000000000001fcd0                readdir64
+ *fill*         0x000000000001fd4b        0x5 
+ .text          0x000000000001fd50       0x8e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x000000000001fd50                fdopendir
+                0x000000000001fd50                __fdopendir
+ *fill*         0x000000000001fdde        0x2 
+ .text          0x000000000001fde0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+                0x000000000001fde0                __getdents
+                0x000000000001fde0                getdents64
+                0x000000000001fde0                __getdents64
+ .text          0x000000000001fe10       0x7b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                0x000000000001fe10                _dl_addr_inside_object
+ *fill*         0x000000000001fe8b        0x5 
+ .text          0x000000000001fe90       0xf7 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+                0x000000000001fee0                __profil
+                0x000000000001fee0                profil
+ *fill*         0x000000000001ff87        0x9 
+ .text          0x000000000001ff90        0xb /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x000000000001ff90                __profile_frequency
+ *fill*         0x000000000001ff9b        0x5 
+ .text          0x000000000001ffa0       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+                0x000000000001ffa0                access
+                0x000000000001ffa0                __access
+ *fill*         0x000000000001ffc6        0xa 
+ .text          0x000000000001ffd0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+                0x000000000001ffd0                __GI___fstat64
+                0x000000000001ffd0                fstat64
+                0x000000000001ffd0                fstat
+                0x000000000001ffd0                __fstat64
+                0x000000000001ffd0                __fstat
+ .text          0x0000000000020000       0x2e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                0x0000000000020000                fstatat
+                0x0000000000020000                __fstatat
+                0x0000000000020000                fstatat64
+                0x0000000000020000                __fstatat64
+                0x0000000000020000                __GI___fstatat
+                0x0000000000020000                __GI___fstatat64
+ *fill*         0x000000000002002e        0x2 
+ .text          0x0000000000020030       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+                0x0000000000020030                __lseek64
+                0x0000000000020030                lseek
+                0x0000000000020030                __libc_lseek64
+                0x0000000000020030                __lseek
+                0x0000000000020030                __libc_lseek
+                0x0000000000020030                lseek64
+ *fill*         0x0000000000020058        0x8 
+ .text          0x0000000000020060       0x19 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+                0x0000000000020060                __lstat64
+                0x0000000000020060                lstat
+                0x0000000000020060                lstat64
+                0x0000000000020060                __GI___lstat64
+                0x0000000000020060                __lstat
+ *fill*         0x0000000000020079        0x7 
+ .text          0x0000000000020080       0x66 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+                0x0000000000020080                __openat64
+                0x0000000000020080                __libc_openat64
+                0x0000000000020080                __openat
+                0x0000000000020080                openat
+ *fill*         0x00000000000200e6        0xa 
+ .text          0x00000000000200f0       0x16 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+                0x00000000000200f0                stat64
+                0x00000000000200f0                __stat
+                0x00000000000200f0                __stat64
+                0x00000000000200f0                stat
+                0x00000000000200f0                __GI___stat64
+ *fill*         0x0000000000020106        0xa 
+ .text          0x0000000000020110       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                0x0000000000020110                __GI___close_nocancel
+ *fill*         0x0000000000020136        0xa 
+ .text          0x0000000000020140       0xde /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                0x0000000000020140                __fcntl64_nocancel
+                0x0000000000020140                __GI___fcntl64_nocancel
+                0x00000000000201c0                __fcntl64_nocancel_adjusted
+ *fill*         0x000000000002021e        0x2 
+ .text          0x0000000000020220       0x76 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                0x0000000000020220                __GI___open_nocancel
+                0x0000000000020220                __open_nocancel
+                0x0000000000020220                __GI___open64_nocancel
+                0x0000000000020220                __open64_nocancel
+ *fill*         0x0000000000020296        0xa 
+ .text          0x00000000000202a0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                0x00000000000202a0                __GI___pread64_nocancel
+                0x00000000000202a0                __pread64_nocancel
+ .text          0x00000000000202d0       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                0x00000000000202d0                __read_nocancel
+                0x00000000000202d0                __GI___read_nocancel
+ *fill*         0x00000000000202f8        0x8 
+ .text          0x0000000000020300       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                0x0000000000020300                __GI___write_nocancel
+                0x0000000000020300                __write_nocancel
+ *fill*         0x0000000000020328        0x8 
+ .text          0x0000000000020330       0xaf /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                0x0000000000020330                __libc_scratch_buffer_set_array_size
+ *fill*         0x00000000000203df        0x1 
+ .text          0x00000000000203e0       0xa1 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+                0x00000000000203e0                __mmap
+                0x00000000000203e0                mmap
+                0x00000000000203e0                __mmap64
+                0x00000000000203e0                mmap64
+ *fill*         0x0000000000020481        0xf 
+ .text          0x0000000000020490       0x24 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x0000000000020490                __mprotect
+                0x0000000000020490                __GI___mprotect
+                0x0000000000020490                __GI_mprotect
+                0x0000000000020490                mprotect
+ *fill*         0x00000000000204b4        0xc 
+ .text          0x00000000000204c0       0x24 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+                0x00000000000204c0                munmap
+                0x00000000000204c0                __GI___munmap
+                0x00000000000204c0                __GI_munmap
+                0x00000000000204c0                __munmap
+ *fill*         0x00000000000204e4        0xc 
+ .text          0x00000000000204f0       0xf8 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x00000000000204f0                __lll_lock_wait_private
+                0x0000000000020550                __lll_lock_wait
+                0x00000000000205b0                __lll_lock_wake_private
+                0x00000000000205d0                __lll_lock_wake
+ *fill*         0x00000000000205e8        0x8 
+ .text          0x00000000000205f0       0x27 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+                0x00000000000205f0                _Exit
+                0x00000000000205f0                __GI__exit
+                0x00000000000205f0                _exit
+ *fill*         0x0000000000020617        0x9 
+ .text          0x0000000000020620        0xc /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+                0x0000000000020620                __getpid
+                0x0000000000020620                getpid
+                0x0000000000020620                __GI_getpid
+                0x0000000000020620                __GI___getpid
+ *fill*         0x000000000002062c        0x4 
+ .text          0x0000000000020630       0x24 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+                0x0000000000020630                uname
+                0x0000000000020630                __GI_uname
+                0x0000000000020630                __uname
+                0x0000000000020630                __GI___uname
+ .text          0x0000000000020654        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ *fill*         0x0000000000020654        0xc 
+ .text          0x0000000000020660       0x5e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x0000000000020660                __sigsetjmp
+                0x0000000000020660                __GI___sigsetjmp
+ *fill*         0x00000000000206be        0x2 
+ .text          0x00000000000206c0       0x7c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x00000000000206c0                __longjmp
+ *fill*         0x000000000002073c        0x4 
+ .text          0x0000000000020740       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+                0x0000000000020740                sigaction
+                0x0000000000020740                __sigaction
+ .text          0x0000000000020770      0x1b7 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                0x0000000000020790                __libc_sigaction
+ *fill*         0x0000000000020927        0x9 
+ .text          0x0000000000020930      0x323 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+                0x0000000000020930                memchr
+                0x0000000000020930                __memchr
+ *fill*         0x0000000000020c53        0xd 
+ .text          0x0000000000020c60      0x2d0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+                0x0000000000020c60                bcmp
+                0x0000000000020c60                memcmp
+ .text          0x0000000000020f30      0x1f1 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+                0x0000000000020f30                mempcpy
+                0x0000000000020f30                __mempcpy
+                0x0000000000020f40                memmove
+                0x0000000000020f40                memcpy
+ *fill*         0x0000000000021121        0xf 
+ .text          0x0000000000021130       0xd9 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+                0x0000000000021130                memset
+ *fill*         0x0000000000021209        0x7 
+ .text          0x0000000000021210      0x6c0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+                0x0000000000021210                stpcpy
+                0x0000000000021210                __stpcpy
+ .text          0x00000000000218d0      0x22a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+                0x00000000000218d0                index
+                0x00000000000218d0                strchr
+ *fill*         0x0000000000021afa        0x6 
+ .text          0x0000000000021b00     0x1449 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+                0x0000000000021b00                strcmp
+ *fill*         0x0000000000022f49        0x7 
+ .text          0x0000000000022f50      0x167 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+                0x0000000000022f50                strcspn
+ *fill*         0x00000000000230b7        0x9 
+ .text          0x00000000000230c0       0x49 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+                0x00000000000230c0                __strdup
+                0x00000000000230c0                strdup
+ *fill*         0x0000000000023109        0x7 
+ .text          0x0000000000023110        0x9 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                0x0000000000023110                strerrorname_np
+ *fill*         0x0000000000023119        0x7 
+ .text          0x0000000000023120      0x19c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+                0x0000000000023120                strlen
+ *fill*         0x00000000000232bc        0x4 
+ .text          0x00000000000232c0     0x1859 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+                0x00000000000232c0                strncmp
+ *fill*         0x0000000000024b19        0x7 
+ .text          0x0000000000024b20      0x218 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+                0x0000000000024b20                __strnlen
+                0x0000000000024b20                strnlen
+ *fill*         0x0000000000024d38        0x8 
+ .text          0x0000000000024d40      0x20a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+                0x0000000000024d40                __strchrnul
+                0x0000000000024d40                strchrnul
+ *fill*         0x0000000000024f4a        0x6 
+ .text          0x0000000000024f50       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x0000000000024f50                setitimer
+                0x0000000000024f50                __setitimer
+ *fill*         0x0000000000024f76        0xa 
+ .text          0x0000000000024f80       0x33 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+                0x0000000000024f80                __get_errname
+ *(.gnu.warning)
+
+.text.evex512   0x0000000000000000      0x3fd
+ .text.evex512  0x0000000000000000      0x3fd /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_runtime_profile_avx512
+
+.text.avx       0x0000000000000000      0x3ef
+ .text.avx      0x0000000000000000      0x3ef /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_runtime_profile_avx
+
+.text.compat    0x0000000000000000        0x5
+ .text.compat   0x0000000000000000        0x5 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                __rtld_version_placeholder_1
+                0x0000000000000000                __rtld_version_placeholder@GLIBC_2.34
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x1815
+ *(.rodata)
+ .rodata        0x0000000000000000     0x1192 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .rodata        0x0000000000001192       0x80 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ *fill*         0x0000000000001212        0x6 
+ .rodata        0x0000000000001218       0x40 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .rodata        0x0000000000001258       0x40 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ *fill*         0x0000000000001298        0x8 
+ .rodata        0x00000000000012a0      0x575 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.rodata.str1.1  0x0000000000000000     0x183d
+ .rodata.str1.1
+                0x0000000000000000     0x1828 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000001828       0x14 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .rodata.str1.1
+                0x000000000000183c        0x1 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x525
+ .rodata.str1.16
+                0x0000000000000000      0x525 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000390                _dl_hwcaps_subdirs
+                0x00000000000003f0                __GI__itoa_lower_digits
+                0x00000000000003f0                _itoa_lower_digits
+
+.rodata.str1.8  0x0000000000000000     0x2ddf
+ .rodata.str1.8
+                0x0000000000000000     0x2da1 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ *fill*         0x0000000000002da1        0x7 
+ .rodata.str1.8
+                0x0000000000002da8       0x37 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+
+.rodata.str1.32
+                0x0000000000000000       0x5b
+ .rodata.str1.32
+                0x0000000000000000       0x5b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x8
+ .rodata.cst4   0x0000000000000000        0x8 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000004                __rseq_flags
+
+.rodata.cst2    0x0000000000000000        0x4
+ .rodata.cst2   0x0000000000000000        0x4 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+
+.rodata.cst16   0x0000000000000000       0x30
+ .rodata.cst16  0x0000000000000000       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+
+.rodata.cst8    0x0000000000000000        0x8
+ .rodata.cst8   0x0000000000000000        0x8 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x3f6c
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x33f0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+                                       0x3470 (size before relaxing)
+ .eh_frame      0x00000000000033f0       0x68 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x0000000000003458       0x38 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x0000000000003490       0x38 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .eh_frame      0x00000000000034c8       0x48 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .eh_frame      0x0000000000003510       0x48 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .eh_frame      0x0000000000003558       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .eh_frame      0x0000000000003588       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .eh_frame      0x00000000000035b8       0x48 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .eh_frame      0x0000000000003600       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x0000000000003630       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x0000000000003660       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .eh_frame      0x0000000000003690       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .eh_frame      0x00000000000036c0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .eh_frame      0x00000000000036f0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .eh_frame      0x0000000000003720       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .eh_frame      0x0000000000003750       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .eh_frame      0x0000000000003780       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .eh_frame      0x00000000000037b0       0x40 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .eh_frame      0x00000000000037f0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .eh_frame      0x0000000000003820       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .eh_frame      0x0000000000003850       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .eh_frame      0x0000000000003880       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .eh_frame      0x00000000000038b0       0x58 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .eh_frame      0x0000000000003908       0x48 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .eh_frame      0x0000000000003950       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x0000000000003980       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x00000000000039b0       0x70 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .eh_frame      0x0000000000003a20       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .eh_frame      0x0000000000003a50       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x0000000000003a80       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x0000000000003ab0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000003ae0       0x48 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000003b28       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .eh_frame      0x0000000000003b58       0xc8 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                                         0xd0 (size before relaxing)
+ .eh_frame      0x0000000000003c20       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .eh_frame      0x0000000000003c50       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .eh_frame      0x0000000000003c80       0x40 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .eh_frame      0x0000000000003cc0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .eh_frame      0x0000000000003cf0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .eh_frame      0x0000000000003d20       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .eh_frame      0x0000000000003d50       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .eh_frame      0x0000000000003d80       0x50 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .eh_frame      0x0000000000003dd0       0x50 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .eh_frame      0x0000000000003e20       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .eh_frame      0x0000000000003e50       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .eh_frame      0x0000000000003e80       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .eh_frame      0x0000000000003eb0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .eh_frame      0x0000000000003ee0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .eh_frame      0x0000000000003f10       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .eh_frame      0x0000000000003f40       0x2c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+                                         0x30 (size before relaxing)
+
+.sframe
+ *(.sframe)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.eh_frame
+ *(.eh_frame)
+
+.sframe
+ *(.sframe)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+
+.got.plt
+ *(.got.plt)
+
+.data           0x0000000000000000     0x10e8
+ *(.data)
+ .data          0x0000000000000000     0x10e8 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .data          0x00000000000010e8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.data.rel.ro    0x0000000000000000     0x1708
+ .data.rel.ro   0x0000000000000000     0x1708 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000040                __rtld_search_dirs
+                0x0000000000000070                __rtld_env_path_list
+                0x0000000000000080                __stack_prot
+                0x0000000000000088                __rseq_offset
+                0x0000000000000090                __rseq_size
+                0x00000000000012e8                __rtld_realloc
+                0x00000000000012f0                __rtld_malloc
+                0x00000000000012f8                __rtld_free
+                0x0000000000001300                __rtld_calloc
+                0x0000000000001308                ___rtld_mutex_unlock
+                0x0000000000001310                ___rtld_mutex_lock
+                0x0000000000001318                _dl_random
+                0x0000000000001320                __libc_stack_end
+                0x0000000000001320                __GI___libc_stack_end
+                0x0000000000001328                __GI___libc_enable_secure
+                0x0000000000001328                __libc_enable_secure
+                0x0000000000001350                __pointer_chk_guard_local
+                0x0000000000001358                __GI__dl_argv
+                0x0000000000001358                _dl_argv
+                0x0000000000001360                _dl_argc
+                0x0000000000001380                _rtld_global_ro
+                0x0000000000001380                _rtld_local_ro
+
+.data.rel.ro.local
+                0x0000000000000000       0x28
+ .data.rel.ro.local
+                0x0000000000000000       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000000                __x86_cpu_features_p
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x1c8
+ *(.bss)
+ .bss           0x0000000000000000      0x190 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+                0x0000000000000018                _r_debug_extended
+                0x0000000000000018                _r_debug
+                0x00000000000000d8                __nptl_initial_report_events
+                0x00000000000000d8                __GI___nptl_initial_report_events
+                0x0000000000000110                _dl_hwcaps_priorities_length
+                0x0000000000000118                _dl_hwcaps_priorities
+                0x0000000000000120                __rtld_tls_init_tp_called
+                0x0000000000000188                __curbrk
+ .bss           0x0000000000000190        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000190        0x4 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+                0x0000000000000190                rtld_errno
+ .bss           0x0000000000000194        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x0000000000000194        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x0000000000000194        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .bss           0x0000000000000194        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x0000000000000194        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .bss           0x0000000000000194        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ *fill*         0x0000000000000194        0x4 
+ .bss           0x0000000000000198       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x00000000000001b8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x00000000000001b8        0x4 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x00000000000001b8                __pthread_force_elision
+ .bss           0x00000000000001bc        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x00000000000001bc        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .bss           0x00000000000001bc        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ *fill*         0x00000000000001bc        0x4 
+ .bss           0x00000000000001c0        0x8 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+                0x00000000000001c0                _environ
+                0x00000000000001c0                __environ
+                0x00000000000001c0                environ
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .bss           0x00000000000001c8        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.lbss
+ *(.lbss)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xd82
+ *(.comment)
+ .comment       0x0000000000000000      0x850 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .comment       0x0000000000000850       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x0000000000000876       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x000000000000089c       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x00000000000008c2       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x00000000000008e8       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .comment       0x000000000000090e       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x0000000000000934       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .comment       0x000000000000095a       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .comment       0x0000000000000980       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x00000000000009a6       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x00000000000009cc       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .comment       0x00000000000009f2       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .comment       0x0000000000000a18       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .comment       0x0000000000000a3e       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .comment       0x0000000000000a64       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .comment       0x0000000000000a8a       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .comment       0x0000000000000ab0       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .comment       0x0000000000000ad6       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .comment       0x0000000000000afc       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .comment       0x0000000000000b22       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .comment       0x0000000000000b48       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .comment       0x0000000000000b6e       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .comment       0x0000000000000b94       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .comment       0x0000000000000bba       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .comment       0x0000000000000be0       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .comment       0x0000000000000c06       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .comment       0x0000000000000c2c       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000c52       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000c78       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x0000000000000c9e       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .comment       0x0000000000000cc4       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .comment       0x0000000000000cea       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .comment       0x0000000000000d10       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .comment       0x0000000000000d36       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .comment       0x0000000000000d5c       0x26 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x14d0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0xb30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_aranges
+                0x0000000000000b30       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_aranges
+                0x0000000000000b60       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_aranges
+                0x0000000000000b80       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_aranges
+                0x0000000000000bb0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_aranges
+                0x0000000000000be0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_aranges
+                0x0000000000000c10       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_aranges
+                0x0000000000000c40       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_aranges
+                0x0000000000000c70       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_aranges
+                0x0000000000000ca0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_aranges
+                0x0000000000000cd0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_aranges
+                0x0000000000000d00       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_aranges
+                0x0000000000000d30       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_aranges
+                0x0000000000000d60       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_aranges
+                0x0000000000000d90       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_aranges
+                0x0000000000000dc0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_aranges
+                0x0000000000000df0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_aranges
+                0x0000000000000e20       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_aranges
+                0x0000000000000e50       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_aranges
+                0x0000000000000e80       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_aranges
+                0x0000000000000eb0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_aranges
+                0x0000000000000ee0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_aranges
+                0x0000000000000f10       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_aranges
+                0x0000000000000f40       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_aranges
+                0x0000000000000f70       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_aranges
+                0x0000000000000fa0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_aranges
+                0x0000000000000fd0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_aranges
+                0x0000000000001000       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_aranges
+                0x0000000000001030       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_aranges
+                0x0000000000001060       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_aranges
+                0x0000000000001090       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_aranges
+                0x00000000000010c0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_aranges
+                0x00000000000010f0       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_aranges
+                0x0000000000001110       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_aranges
+                0x0000000000001140       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_aranges
+                0x0000000000001170       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_aranges
+                0x00000000000011a0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_aranges
+                0x00000000000011d0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_aranges
+                0x0000000000001200       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_aranges
+                0x0000000000001230       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_aranges
+                0x0000000000001260       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_aranges
+                0x0000000000001290       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_aranges
+                0x00000000000012c0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_aranges
+                0x00000000000012f0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_aranges
+                0x0000000000001320       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_aranges
+                0x0000000000001350       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_aranges
+                0x0000000000001380       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_aranges
+                0x00000000000013b0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_aranges
+                0x00000000000013e0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_aranges
+                0x0000000000001410       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_aranges
+                0x0000000000001440       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_aranges
+                0x0000000000001470       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_aranges
+                0x00000000000014a0       0x30 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x94da0
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x89934 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_info    0x0000000000089934      0x4c7 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_info    0x0000000000089dfb       0x98 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_info    0x0000000000089e93      0x242 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_info    0x000000000008a0d5      0x1b5 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_info    0x000000000008a28a      0x2bf /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_info    0x000000000008a549      0x3ff /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_info    0x000000000008a948      0x188 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_info    0x000000000008aad0      0xaf2 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_info    0x000000000008b5c2      0xb68 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_info    0x000000000008c12a     0x1dff /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_info    0x000000000008df29      0x14a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_info    0x000000000008e073      0x2a8 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_info    0x000000000008e31b      0x407 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_info    0x000000000008e722      0x180 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_info    0x000000000008e8a2      0x29a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_info    0x000000000008eb3c      0x2d1 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_info    0x000000000008ee0d      0x298 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_info    0x000000000008f0a5      0x11f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_info    0x000000000008f1c4      0x589 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_info    0x000000000008f74d      0x245 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_info    0x000000000008f992      0x1ce /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_info    0x000000000008fb60      0x192 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_info    0x000000000008fcf2      0x197 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_info    0x000000000008fe89      0x3ba /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_info    0x0000000000090243     0x22bf /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_info    0x0000000000092502       0x6a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_info    0x000000000009256c       0x6a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_info    0x00000000000925d6      0x5f7 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_info    0x0000000000092bcd      0x110 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_info    0x0000000000092cdd       0x6a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_info    0x0000000000092d47       0x6a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_info    0x0000000000092db1       0xb2 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_info    0x0000000000092e63       0x48 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_info    0x0000000000092eab       0x39 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_info    0x0000000000092ee4      0x623 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_info    0x0000000000093507      0x604 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_info    0x0000000000093b0b       0x4d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_info    0x0000000000093b58       0x4d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_info    0x0000000000093ba5       0x6d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_info    0x0000000000093c12       0x3b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_info    0x0000000000093c4d       0x4d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_info    0x0000000000093c9a       0x4d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_info    0x0000000000093ce7       0x3b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_info    0x0000000000093d22      0x1f3 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_info    0x0000000000093f15      0x1ec /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_info    0x0000000000094101       0xd7 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_info    0x00000000000941d8       0x3b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_info    0x0000000000094213       0x3b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_info    0x000000000009424e       0x4d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_info    0x000000000009429b       0x4d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_info    0x00000000000942e8      0x21e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_info    0x0000000000094506      0x89a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_abbrev   0x0000000000000000    0x13fe7
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000    0x10d14 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_abbrev  0x0000000000010d14      0x1bb /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_abbrev  0x0000000000010ecf       0x48 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_abbrev  0x0000000000010f17      0x19c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_abbrev  0x00000000000110b3      0x10e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_abbrev  0x00000000000111c1      0x178 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_abbrev  0x0000000000011339      0x194 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_abbrev  0x00000000000114cd       0xc7 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_abbrev  0x0000000000011594      0x215 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_abbrev  0x00000000000117a9      0x2df /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_abbrev  0x0000000000011a88      0x312 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_abbrev  0x0000000000011d9a       0xb6 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_abbrev  0x0000000000011e50       0xfb /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_abbrev  0x0000000000011f4b      0x19b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_abbrev  0x00000000000120e6       0xc6 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_abbrev  0x00000000000121ac       0xfa /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_abbrev  0x00000000000122a6      0x157 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_abbrev  0x00000000000123fd       0xfa /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_abbrev  0x00000000000124f7       0xa3 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_abbrev  0x000000000001259a      0x202 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_abbrev  0x000000000001279c      0x119 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_abbrev  0x00000000000128b5       0xda /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_abbrev  0x000000000001298f       0xcf /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_abbrev  0x0000000000012a5e       0xd6 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_abbrev  0x0000000000012b34      0x24c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_abbrev  0x0000000000012d80      0x3fe /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_abbrev  0x000000000001317e       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_abbrev  0x00000000000131a6       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_abbrev  0x00000000000131ce      0x1e0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_abbrev  0x00000000000133ae       0x9b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_abbrev  0x0000000000013449       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_abbrev  0x0000000000013471       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_abbrev  0x0000000000013499       0x72 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_abbrev  0x000000000001350b       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_abbrev  0x0000000000013533       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_abbrev  0x000000000001355b      0x1c7 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_abbrev  0x0000000000013722      0x1d6 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_abbrev  0x00000000000138f8       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_abbrev  0x0000000000013920       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_abbrev  0x0000000000013948       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_abbrev  0x0000000000013970       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_abbrev  0x0000000000013998       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_abbrev  0x00000000000139c0       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_abbrev  0x00000000000139e8       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_abbrev  0x0000000000013a10      0x113 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_abbrev  0x0000000000013b23      0x15c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_abbrev  0x0000000000013c7f       0x9c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_abbrev  0x0000000000013d1b       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_abbrev  0x0000000000013d43       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_abbrev  0x0000000000013d6b       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_abbrev  0x0000000000013d93       0x28 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_abbrev  0x0000000000013dbb      0x10f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_abbrev  0x0000000000013eca      0x11d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_line     0x0000000000000000    0x23093
+ *(.debug_line)
+ .debug_line    0x0000000000000000    0x1fbfe /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_line    0x000000000001fbfe      0x130 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line    0x000000000001fd2e       0x3f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line    0x000000000001fd6d       0xdb /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line    0x000000000001fe48       0xb9 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line    0x000000000001ff01      0x126 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line    0x0000000000020027      0x11a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line    0x0000000000020141       0xb2 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line    0x00000000000201f3       0xf5 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line    0x00000000000202e8      0x222 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line    0x000000000002050a      0x10b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line    0x0000000000020615       0x8d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line    0x00000000000206a2       0x9b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_line    0x000000000002073d       0xc5 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_line    0x0000000000020802       0xa3 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line    0x00000000000208a5       0x81 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_line    0x0000000000020926      0x120 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line    0x0000000000020a46       0x81 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_line    0x0000000000020ac7       0x8b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line    0x0000000000020b52      0x182 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line    0x0000000000020cd4       0xcd /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line    0x0000000000020da1       0xb3 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line    0x0000000000020e54       0xaa /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line    0x0000000000020efe       0xaa /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line    0x0000000000020fa8      0x18c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line    0x0000000000021134      0x233 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line    0x0000000000021367       0x51 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line    0x00000000000213b8       0x51 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line    0x0000000000021409      0x1ba /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_line    0x00000000000215c3       0x8b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line    0x000000000002164e       0x4f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line    0x000000000002169d       0x51 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line    0x00000000000216ee       0x3f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line    0x000000000002172d       0x62 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line    0x000000000002178f       0x6d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line    0x00000000000217fc       0xd6 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line    0x00000000000218d2      0x1db /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_line    0x0000000000021aad      0x119 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_line    0x0000000000021bc6      0x139 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_line    0x0000000000021cff       0xdc /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_line    0x0000000000021ddb       0x97 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_line    0x0000000000021e72      0x1c9 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_line    0x000000000002203b       0xd2 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_line    0x000000000002210d      0x491 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_line    0x000000000002259e      0x191 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_line    0x000000000002272f       0xb2 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line    0x00000000000227e1       0x5d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_line    0x000000000002283e       0x98 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_line    0x00000000000228d6      0x527 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_line    0x0000000000022dfd       0x9c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_line    0x0000000000022e99       0xcc /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_line    0x0000000000022f65       0xb0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_line    0x0000000000023015       0x7e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x5a2ec
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x50ec7 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_str     0x0000000000050ec7      0x392 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_str     0x0000000000051259      0x1b1 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_str     0x000000000005140a      0x259 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_str     0x0000000000051663      0x21f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_str     0x0000000000051882      0x29b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_str     0x0000000000051b1d      0x385 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_str     0x0000000000051ea2      0x204 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_str     0x00000000000520a6      0x90d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_str     0x00000000000529b3      0x6df /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_str     0x0000000000053092     0x1404 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_str     0x0000000000054496      0x1e3 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_str     0x0000000000054679      0x2c2 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_str     0x000000000005493b      0x326 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_str     0x0000000000054c61      0x201 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_str     0x0000000000054e62      0x2bc /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_str     0x000000000005511e      0x28b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_str     0x00000000000553a9      0x2ba /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_str     0x0000000000055663      0x1f0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_str     0x0000000000055853      0x2dd /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_str     0x0000000000055b30      0x282 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_str     0x0000000000055db2      0x241 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_str     0x0000000000055ff3      0x21c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_str     0x000000000005620f      0x21e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_str     0x000000000005642d      0x2a5 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_str     0x00000000000566d2     0x1803 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_str     0x0000000000057ed5       0x8e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_str     0x0000000000057f63       0x86 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_str     0x0000000000057fe9      0x298 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_str     0x0000000000058281      0x1e1 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_str     0x0000000000058462       0x87 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_str     0x00000000000584e9       0x83 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_str     0x000000000005856c      0x1a4 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_str     0x0000000000058710       0x73 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_str     0x0000000000058783       0x63 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_str     0x00000000000587e6      0x3ea /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_str     0x0000000000058bd0      0x424 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_str     0x0000000000058ff4       0x82 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_str     0x0000000000059076       0x7e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_str     0x00000000000590f4       0x95 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_str     0x0000000000059189       0x87 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_str     0x0000000000059210       0x8c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_str     0x000000000005929c       0x7f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_str     0x000000000005931b       0x79 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_str     0x0000000000059394      0x1d3 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_str     0x0000000000059567      0x1e9 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_str     0x0000000000059750      0x194 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_str     0x00000000000598e4       0x79 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_str     0x000000000005995d       0x7a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_str     0x00000000000599d7       0x84 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_str     0x0000000000059a5b       0x88 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_str     0x0000000000059ae3      0x291 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_str     0x0000000000059d74      0x578 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000     0xde02
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000     0xaad3 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_line_str
+                0x000000000000aad3      0x157 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line_str
+                0x000000000000ac2a       0x83 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line_str
+                0x000000000000acad      0x17c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line_str
+                0x000000000000ae29      0x170 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line_str
+                0x000000000000af99      0x196 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line_str
+                0x000000000000b12f      0x1e7 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line_str
+                0x000000000000b316      0x12b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line_str
+                0x000000000000b441      0x19e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line_str
+                0x000000000000b5df      0x2d0 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line_str
+                0x000000000000b8af      0x2ae /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line_str
+                0x000000000000bb5d       0xba /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line_str
+                0x000000000000bc17      0x140 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_line_str
+                0x000000000000bd57      0x130 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_line_str
+                0x000000000000be87       0xe5 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line_str
+                0x000000000000bf6c      0x12d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_line_str
+                0x000000000000c099      0x121 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line_str
+                0x000000000000c1ba      0x12a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_line_str
+                0x000000000000c2e4       0xd2 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line_str
+                0x000000000000c3b6      0x153 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line_str
+                0x000000000000c509      0x112 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line_str
+                0x000000000000c61b      0x132 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line_str
+                0x000000000000c74d      0x129 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line_str
+                0x000000000000c876      0x12c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line_str
+                0x000000000000c9a2      0x122 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line_str
+                0x000000000000cac4      0x2bf /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line_str
+                0x000000000000cd83       0x50 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line_str
+                0x000000000000cdd3       0x50 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line_str
+                0x000000000000ce23       0xca /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_line_str
+                0x000000000000ceed       0xbd /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line_str
+                0x000000000000cfaa       0x51 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line_str
+                0x000000000000cffb       0x51 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line_str
+                0x000000000000d04c       0x8c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line_str
+                0x000000000000d0d8       0x4a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line_str
+                0x000000000000d122       0x4d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line_str
+                0x000000000000d16f      0x19f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line_str
+                0x000000000000d30e      0x223 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_line_str
+                0x000000000000d531       0x66 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_line_str
+                0x000000000000d597       0x66 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_line_str
+                0x000000000000d5fd       0x68 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_line_str
+                0x000000000000d665       0x74 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_line_str
+                0x000000000000d6d9       0x70 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_line_str
+                0x000000000000d749       0x66 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_line_str
+                0x000000000000d7af       0x66 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_line_str
+                0x000000000000d815      0x121 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_line_str
+                0x000000000000d936       0xd8 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line_str
+                0x000000000000da0e       0xa7 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_line_str
+                0x000000000000dab5       0x66 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_line_str
+                0x000000000000db1b       0x66 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_line_str
+                0x000000000000db81       0x66 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_line_str
+                0x000000000000dbe7       0x66 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_line_str
+                0x000000000000dc4d      0x114 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_line_str
+                0x000000000000dd61       0xa1 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_loclists
+                0x0000000000000000    0x20e4a
+ *(.debug_loclists)
+ .debug_loclists
+                0x0000000000000000    0x1fb33 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_loclists
+                0x000000000001fb33       0xa2 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_loclists
+                0x000000000001fbd5       0x46 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_loclists
+                0x000000000001fc1b       0x25 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_loclists
+                0x000000000001fc40       0x6b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_loclists
+                0x000000000001fcab       0x44 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_loclists
+                0x000000000001fcef       0xeb /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_loclists
+                0x000000000001fdda      0x16b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_loclists
+                0x000000000001ff45      0x110 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_loclists
+                0x0000000000020055       0x2c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_loclists
+                0x0000000000020081       0x45 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_loclists
+                0x00000000000200c6       0x92 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_loclists
+                0x0000000000020158       0x34 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_loclists
+                0x000000000002018c       0x3e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_loclists
+                0x00000000000201ca       0x85 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_loclists
+                0x000000000002024f       0x3e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_loclists
+                0x000000000002028d       0x24 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_loclists
+                0x00000000000202b1      0x248 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_loclists
+                0x00000000000204f9       0xd1 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_loclists
+                0x00000000000205ca       0x52 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_loclists
+                0x000000000002061c       0x34 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_loclists
+                0x0000000000020650       0x34 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_loclists
+                0x0000000000020684      0x115 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_loclists
+                0x0000000000020799      0x1a8 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_loclists
+                0x0000000000020941      0x18c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_loclists
+                0x0000000000020acd       0x2b /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_loclists
+                0x0000000000020af8       0x5f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_loclists
+                0x0000000000020b57       0xd7 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_loclists
+                0x0000000000020c2e      0x14c /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_loclists
+                0x0000000000020d7a       0x6a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_loclists
+                0x0000000000020de4       0x1e /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_loclists
+                0x0000000000020e02       0x34 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_loclists
+                0x0000000000020e36       0x14 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x0000000000000000     0x40a3
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x0000000000000000     0x3eb6 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/dl-allobjs.os
+ .debug_rnglists
+                0x0000000000003eb6       0x1d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_rnglists
+                0x0000000000003ed3       0x13 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_rnglists
+                0x0000000000003ee6       0x13 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_rnglists
+                0x0000000000003ef9       0x1a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_rnglists
+                0x0000000000003f13       0x13 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_rnglists
+                0x0000000000003f26       0x3a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_rnglists
+                0x0000000000003f60       0x13 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_rnglists
+                0x0000000000003f73       0x1d /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_rnglists
+                0x0000000000003f90       0x13 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_rnglists
+                0x0000000000003fa3       0x13 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_rnglists
+                0x0000000000003fb6       0x1f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_rnglists
+                0x0000000000003fd5       0x20 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_rnglists
+                0x0000000000003ff5       0x2f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_rnglists
+                0x0000000000004024       0x1a /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_rnglists
+                0x000000000000403e       0x3f /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_rnglists
+                0x000000000000407d       0x13 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_rnglists
+                0x0000000000004090       0x13 /home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/andrea/Desktop/Star-Os/glibc-2.38/build/elf/librtld.os elf64-x86-64)

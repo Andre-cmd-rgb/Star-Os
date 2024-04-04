@@ -1,0 +1,20 @@
+#!/bin/sh
+
+# Suppress kernel messages
+dmesg -n 1
+clear
+
+mount -t proc none /proc
+mount -t sysfs none /sys
+mount -t devtmpfs udev /dev 
+
+# Setup networking
+for NETDEV in /sys/class/net/* ; do
+  ip link set ${NETDEV##*/} up
+  [ ${NETDEV##*/} != lo ] && udhcpc -b -i ${NETDEV##*/} -s /etc/network.sh
+done
+
+clear
+
+exec /sbin/init
+
