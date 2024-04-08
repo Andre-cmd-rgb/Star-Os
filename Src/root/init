@@ -11,12 +11,12 @@ mount -t devtmpfs udev /dev
 #echo U:1920x1080p-0 > /sys/class/graphics/fb0/mode
 #con2fbmap 1
 # Setup networking
-#for NETDEV in /sys/class/net/* ; do
-  #ip link set ${NETDEV##*/} up
-  #[ ${NETDEV##*/} != lo ] && udhcpc -b -i ${NETDEV##*/} -s /etc/network.sh
-#done
-ip link set eth0 up
-[ eth0 != lo ] && udhcpc -b -i eth0 -s /etc/network.sh
+for NETDEV in /sys/class/net/* ; do
+  ip link set ${NETDEV##*/} up
+  [ ${NETDEV##*/} != lo ] && udhcpc -b -i ${NETDEV##*/} -s /etc/network.sh
+done
+#ip link set eth0 up
+#[ eth0 != lo ] && udhcpc -b -i eth0 -s /etc/network.sh
 clear
 
 exec /sbin/init

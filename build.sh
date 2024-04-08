@@ -10,17 +10,19 @@ usage() {
 build_iso() {
     echo "Building ISO image..."
     cd Src/root || exit 1
-    find . | cpio -o -H newc | gzip > ../iso/boot/root.cpio.gz
+    num_cores=$(nproc)  # Detect the number of CPU cores
+    find . | cpio -o -H newc | pigz -p "$num_cores" > ../iso/boot/root.cpio.gz
     cd ..
     rm -f star-os.iso
     grub-mkrescue -o star-os.iso ./iso
     echo "ISO image built successfully: star-os.iso"
 }
 
+
 run_qemu() {
     echo "Running QEMU with the ISO image..."
     cd Src
-    qemu-system-x86_64 --cdrom star-os.iso -m 4G -cpu host -device VGA,vgamem_mb=128 -machine type=q35,accel=kvm
+    qemu-system-x86_64 --cdrom star-os.iso -m 16G -cpu host -device VGA,vgamem_mb=128 -machine type=q35,accel=kvm
 }
 
 # Check for the correct number of arguments
@@ -42,4 +44,3 @@ case "$1" in
 esac
 
 exit 0
-
