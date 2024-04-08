@@ -8,8 +8,7 @@ mount -t proc none /proc
 mount -t sysfs none /sys
 mount -t devtmpfs udev /dev 
 
-#echo U:1920x1080p-0 > /sys/class/graphics/fb0/mode
-#con2fbmap 1
+
 # Setup networking
 for NETDEV in /sys/class/net/* ; do
   ip link set ${NETDEV##*/} up
