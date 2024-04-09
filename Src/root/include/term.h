@@ -61,7 +61,7 @@ typedef struct screen  SCREEN;
 
 #if 1
 #undef  NCURSES_SP_FUNCS
-#define NCURSES_SP_FUNCS 20230625
+#define NCURSES_SP_FUNCS 20230520
 #undef  NCURSES_SP_NAME
 #define NCURSES_SP_NAME(name) name##_sp
 
