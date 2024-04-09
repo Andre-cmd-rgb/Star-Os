@@ -1,2 +1,2 @@
-*.iso
-*.cpio.gz
+Src/star-os.iso
+Src/iso/boot/root.cpio.gz
