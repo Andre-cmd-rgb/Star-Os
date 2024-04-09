@@ -1,2 +1,2 @@
-.iso
-root.cpio.gz
+*.iso
+*.cpio.gz
